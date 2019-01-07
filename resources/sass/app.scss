@@ -7,6 +7,14 @@ body{
   font-weight: normal;
 }
 
+/* header */
+#logout {
+  cursor: default;
+  &:hover {
+    background-color: transparent;
+  }
+}
+
 nav.navbar.navbar-expand-lg {
     margin-bottom: 20px;
 }
